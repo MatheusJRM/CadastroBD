@@ -1,4 +1,4 @@
-# Sistema Cadastral com Persistência de Dados em Banco de Dados
+# Sistema Cadastral com Persistência de Dados em Banco de Dados (CadastroBD)
 
 ## Descrição do Projeto
 Este projeto é um sistema cadastral desenvolvido em Java que utiliza um banco de dados relacional para armazenar informações de forma persistente. O sistema integra o Java Database Connectivity (JDBC) para realizar a conexão com o banco de dados e aplica o padrão de projeto DAO (Data Access Object) para organizar a lógica de acesso aos dados, garantindo uma separação clara entre a lógica de negócio e as operações de persistência.
